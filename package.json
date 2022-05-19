@@ -1,0 +1,14 @@
+{
+  "name": "js-profesional",
+  "version": "1.0.0",
+  "description": "course of Platzi",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "Fabian Pacherres",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
